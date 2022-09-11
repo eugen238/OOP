@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# labs\\C# labs.csproj": {}
+    "D:\\C#_labs\\lab1\\C# labs.csproj": {}
   },
   "projects": {
-    "D:\\C# labs\\C# labs.csproj": {
+    "D:\\C#_labs\\lab1\\C# labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# labs\\C# labs.csproj",
+        "projectUniqueName": "D:\\C#_labs\\lab1\\C# labs.csproj",
         "projectName": "C# labs",
-        "projectPath": "D:\\C# labs\\C# labs.csproj",
+        "projectPath": "D:\\C#_labs\\lab1\\C# labs.csproj",
         "packagesPath": "C:\\Users\\demid_\\.nuget\\packages\\",
-        "outputPath": "D:\\C# labs\\obj\\",
+        "outputPath": "D:\\C#_labs\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\demid_\\AppData\\Roaming\\NuGet\\NuGet.Config",

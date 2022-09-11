@@ -13,3 +13,18 @@ D:\C# labs\obj\Debug\net6.0\refint\C# labs.dll
 D:\C# labs\obj\Debug\net6.0\C# labs.pdb
 D:\C# labs\obj\Debug\net6.0\C# labs.genruntimeconfig.cache
 D:\C# labs\obj\Debug\net6.0\ref\C# labs.dll
+D:\C#_labs\lab1\bin\Debug\net6.0\C# labs.exe
+D:\C#_labs\lab1\bin\Debug\net6.0\C# labs.deps.json
+D:\C#_labs\lab1\bin\Debug\net6.0\C# labs.runtimeconfig.json
+D:\C#_labs\lab1\bin\Debug\net6.0\C# labs.dll
+D:\C#_labs\lab1\bin\Debug\net6.0\C# labs.pdb
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.csproj.AssemblyReference.cache
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.AssemblyInfoInputs.cache
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.AssemblyInfo.cs
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.csproj.CoreCompileInputs.cache
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.dll
+D:\C#_labs\lab1\obj\Debug\net6.0\refint\C# labs.dll
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.pdb
+D:\C#_labs\lab1\obj\Debug\net6.0\C# labs.genruntimeconfig.cache
+D:\C#_labs\lab1\obj\Debug\net6.0\ref\C# labs.dll
